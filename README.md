@@ -9,11 +9,12 @@
 - Open source
 
 ## Demo
-- Drawing Mode
-<img src="https://github.com/user-attachments/assets/20181772-460d-4a1c-a102-1dbe0dbb6522" width="600" alt="Virtual Painter Demo">
-- Erase Mode
-<img src="https://github.com/user-attachments/assets/fce9847b-7c6e-4ea0-aa46-7238a4a9c8c3" width="600" alt="Virtual Painter Demo">
 
+- **Drawing Mode**  
+  <img src="https://github.com/user-attachments/assets/20181772-460d-4a1c-a102-1dbe0dbb6522" width="600" alt="Virtual Painter Drawing Mode">
+
+- **Erase Mode**  
+  <img src="https://github.com/user-attachments/assets/fce9847b-7c6e-4ea0-aa46-7238a4a9c8c3" width="600" alt="Virtual Painter Erase Mode">
 
 ## How to Use
 
