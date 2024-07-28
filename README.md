@@ -5,7 +5,7 @@ This is a Virtual Painter which helps you to paint virtually on the screen usiun
 
 
 # How to use:
-
+*Use index finger to draw freely on the screen
 ![VirtualPainter1](https://github.com/user-attachments/assets/e322ad4b-7cdf-4271-9e26-b887fc7ab0f7)
 
 
