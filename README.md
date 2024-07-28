@@ -14,8 +14,7 @@
   <img src="https://github.com/user-attachments/assets/20181772-460d-4a1c-a102-1dbe0dbb6522" width="600" alt="Virtual Painter Drawing Mode">
 
 - **Erase Mode**  
-  <img src="https://github.com/user-attachments/assets/8004e22e-1684-4731-bd06-a2c021d24286
-" width="600" alt="Virtual Painter Erase Mode">
+  <img src="https://github.com/user-attachments/assets/2b103f13-f284-4e7e-aeef-e8e3f5e1dc42" width="600" alt="Virtual Painter Erase Mode">
 
 ## How to Use
 
