@@ -26,8 +26,8 @@
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/virtual-painter.git
-   cd virtual-painter
+   git clone https://github.com/TVS2004Chaitanya/Virtual-Painter.git
+   cd Virtual-Painter
 ## Description
 - **header**
   - The header folder contains all the images required for the project.
