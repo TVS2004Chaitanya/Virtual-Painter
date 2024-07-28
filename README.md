@@ -19,6 +19,8 @@
 ## How to Use
 
 - Use your index finger to draw freely on the screen.
+- Use both index finger and the middle finger to select the elements.
+- You can also both index finger and middle finger to be in the standby mode(Move acroos the screen without drawing).
 
 ## Setup and Usage
 
