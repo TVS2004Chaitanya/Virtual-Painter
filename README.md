@@ -28,3 +28,12 @@
    ```sh
    git clone https://github.com/yourusername/virtual-painter.git
    cd virtual-painter
+## Description
+- **header**
+  - The header folder contains all the images required for the project.
+- **requirements.txt**
+  - This text file contains the libraries required for this project.
+- **HandTrackingModule.py**
+  - This python file contains the class which helps in detcting the hand and also has many helper funtions in it. Go through it once before using the project.
+- **VirtualPainter.py**
+  - This is the main code for the virtual painter application. This code contains the logic which helps to draw virtually on rhe screen.
