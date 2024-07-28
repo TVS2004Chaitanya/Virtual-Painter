@@ -5,7 +5,5 @@ This is a Virtual Painter which helps you to paint virtually on the screen usiun
 
 
 
+![VirtualPainter1](https://github.com/user-attachments/assets/e322ad4b-7cdf-4271-9e26-b887fc7ab0f7)
 
-
- <video loop src="(https://github.com/user-attachments/assets/266b404f-142b-439a-8028-7378faee4e48
-)">  video </video> 
