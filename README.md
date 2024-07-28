@@ -9,7 +9,7 @@
 - Open source
 
 ## Demo
-
+- Drawing Mode
 <img src="https://github.com/user-attachments/assets/e322ad4b-7cdf-4271-9e26-b887fc7ab0f7" width="600" alt="Virtual Painter Demo">
 
 ## How to Use
