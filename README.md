@@ -10,7 +10,7 @@
 
 ## Demo
 - Drawing Mode
-<img src="https://github.com/user-attachments/assets/2541d047-cb7e-4fd2-9eba-d05bac157fee" width="600" alt="Virtual Painter Demo">
+<img src="https://github.com/user-attachments/assets/20181772-460d-4a1c-a102-1dbe0dbb6522" width="600" alt="Virtual Painter Demo">
 
 ## How to Use
 
