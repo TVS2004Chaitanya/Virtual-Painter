@@ -36,4 +36,8 @@
 - **HandTrackingModule.py**
   - This python file contains the class which helps in detcting the hand and also has many helper funtions in it. Go through it once before using the project.
 - **VirtualPainter.py**
-  - This is the main code for the virtual painter application. This code contains the logic which helps to draw virtually on rhe screen.
+  - This is the main code for the virtual painter application. This code contains the logic which helps to draw virtually on the screen.
+
+##Dependecies
+- pip install -r requirements.txt
+- The above command helps to install all the dependecies required.
